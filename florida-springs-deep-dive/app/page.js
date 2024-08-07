@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-      <div className="a">
+      <div className="a ">
         
       </div>
   );
